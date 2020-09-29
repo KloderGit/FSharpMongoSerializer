@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Copyright>Kevin Ashton</Copyright>
+    <RepositoryUrl>https://github.com/KloderGit/FSharpMongoSerializer</RepositoryUrl>
+    <RepositoryType>library</RepositoryType>
+    <PackageProjectUrl>https://github.com/KloderGit/FSharpMongoSerializer</PackageProjectUrl>
+    <PackageTags>f#, mongodb</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
